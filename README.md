@@ -1,4 +1,4 @@
-## Monet Minic Image 
+## Monet Minic Image 🖌️🎨
 ## 1.Overview 
 
 This is project is trying to regain the brushing stroke of Claude Monet by using CycleGen AI .
