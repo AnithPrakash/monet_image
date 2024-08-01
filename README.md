@@ -24,7 +24,7 @@ This project provides a Gradio interface for the CycleGen model, allowing users 
 ## 5.Epochs processing 
 
 ![Screenshot 2024-07-24 220534](https://github.com/user-attachments/assets/bdf69137-94ad-4b10-b83e-fe3d7b4c58e2)
-This took around 90 min to do that. 
+This took around 90 mins to do that. 
 
 ## 6.How to use
 
